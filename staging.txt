@@ -2,3 +2,4 @@ stg file from dev
 testing in dev second 
 feat change
 revert testis
+conflict resolved
